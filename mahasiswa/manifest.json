@@ -1,11 +1,11 @@
 {
-    "name": "praskripsi_admin_mahasiswa_rev",
-    "short_name": "praskripsi_admin_mahasiswa_rev",
+    "name": "Pra-Skripsi Informatika UK Petra (Mahasiswa)",
+    "short_name": "Pra-Skripsi Informatika UKP (Mahasiswa)",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Aplikasi Pra-skripsi untuk Program Studi Informatika",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

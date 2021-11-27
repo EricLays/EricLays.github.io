@@ -1,11 +1,11 @@
 {
-    "name": "praskripsi_admin_dosen",
-    "short_name": "praskripsi_admin_dosen",
+    "name": "Pra-Skripsi Informatika UK Petra (Dosen)",
+    "short_name": "Pra-Skripsi Informatika UKP (Dosen)",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Aplikasi Pra-skripsi Program Studi Informatika untuk Dosen.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
